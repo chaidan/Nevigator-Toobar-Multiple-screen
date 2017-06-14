@@ -5,7 +5,6 @@
 //  Created by Student14 on 6/14/2560 BE.
 //  Copyright © 2560 SNRU. All rights reserved.
 //
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -13,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-    }
+    } // main function
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
