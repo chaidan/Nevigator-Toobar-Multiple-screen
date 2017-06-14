@@ -15,6 +15,7 @@
 		F95C6BB91EF1206A00171BC1 /* ic_home_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F95C6BB61EF1206A00171BC1 /* ic_home_2x.png */; };
 		F95C6BBA1EF1206B00171BC1 /* ic_home_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F95C6BB71EF1206A00171BC1 /* ic_home_3x.png */; };
 		F95C6BBB1EF1206B00171BC1 /* ic_home.png in Resources */ = {isa = PBXBuildFile; fileRef = F95C6BB81EF1206A00171BC1 /* ic_home.png */; };
+		F9CC5A991EF1390A00282177 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9CC5A981EF1390A00282177 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F95C6BB61EF1206A00171BC1 /* ic_home_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_home_2x.png; path = ../../../../Desktop/ic_home_2x.png; sourceTree = "<group>"; };
 		F95C6BB71EF1206A00171BC1 /* ic_home_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_home_3x.png; path = ../../../../Desktop/ic_home_3x.png; sourceTree = "<group>"; };
 		F95C6BB81EF1206A00171BC1 /* ic_home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_home.png; path = ../../../../Desktop/ic_home.png; sourceTree = "<group>"; };
+		F9CC5A981EF1390A00282177 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F95C6BA41EF118FE00171BC1 /* AppDelegate.swift */,
 				F95C6BA61EF118FE00171BC1 /* ViewController.swift */,
 				F95C6BA81EF118FE00171BC1 /* Main.storyboard */,
+				F9CC5A981EF1390A00282177 /* SecondViewController.swift */,
 				F95C6BAB1EF118FE00171BC1 /* Assets.xcassets */,
 				F95C6BAD1EF118FE00171BC1 /* LaunchScreen.storyboard */,
 				F95C6BB01EF118FE00171BC1 /* Info.plist */,
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9CC5A991EF1390A00282177 /* SecondViewController.swift in Sources */,
 				F95C6BA71EF118FE00171BC1 /* ViewController.swift in Sources */,
 				F95C6BA51EF118FE00171BC1 /* AppDelegate.swift in Sources */,
 			);
@@ -313,6 +317,7 @@
 				F95C6BB51EF118FE00171BC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
